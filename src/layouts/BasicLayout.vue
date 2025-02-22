@@ -23,6 +23,7 @@ import GlobalHeader from '@/components/GlobalHeader.vue'
 #basicLayout .header {
   padding-inline: 10px;
   background: white;
+  color: unset;
 }
 
 #basicLayout .footer {
